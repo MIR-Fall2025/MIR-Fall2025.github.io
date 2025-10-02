@@ -1,0 +1,97 @@
+- name: Seyed Reza Tavakoli
+  roles:
+    - Chief TA
+  image: tavakoli.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/seyedreza-tavakoli-732a39217/
+
+- name: Hamid Namjoo
+  # roles:
+  #   - Homework No.3
+  image: Hamid_Namjoo.jpg
+  social:
+    - name: github
+      link: https://github.com/hrnrxb
+    - name: linkedin
+      link: https://www.linkedin.com/in/hamid-namjoo/
+
+- name: Amirhossein Akbari
+  # roles:
+  #   - Homework No.4
+#   image: pouria.jpg
+#   social:
+#     - name: github
+#       link: https://github.com/pouria-D
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/pouria-dadkhah-1bb044187/
+
+# - name: Ramtin Moslemi
+#   roles:
+#     - Homework No.1
+#     - Homework No.4
+#   image: ramtin.jpg
+#   social:
+#     - name: linkedin
+#       link: www.linkedin.com/in/ramtin-m
+
+# - name: Amirabbas Asadi
+#   roles:
+#     - HW No.3
+#     - HW No.4
+#     - HW No.5
+#   image: amirabbas.jpeg
+#   social:
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/amirabbas-asadi/
+
+# - name: Samira Sheikha
+#   roles:
+#     - Homework No.1
+#     - Homework No.5
+#   image: samira.jpeg
+#   social:
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/samirasheikha
+
+# - name: Mohammad Hossein Najafi
+#   roles:
+#     - Homework No.3
+#   image: najafi.jpg
+#   social:
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/mohammad-hossein-najafi-992889190
+
+# - name: Nasrin Amjadi
+#   roles:
+#     - Homework No.3
+#     - Homework No.5
+#   image: nasrin.jpg
+
+# - name: Maryam Dadkhah
+#   roles:
+#     - Homework No.2
+#     - Homework No.3
+#   image: maryam.jpg
+
+# - name: Amir Hossein Haji Mohammad Rezaie
+#   roles:
+#     - Homework No.5
+#   image: haji.jpg
+
+# - name: Yasaman Haghbin
+#   roles:
+#     - Homework No.1
+#     - Homework No.2
+#   image: yasaman.jpg
+#   social:
+#     - name: linkedin
+#       link: https://www.linkedin.com/in/yasaman-haghbin-3615b1235/
+
+# - name: Abolfazl Malekahmadi
+#   roles:
+#     - Homework No.2
+#   image: abolfazl.jpg
+#   social:
+#     - name: github
+#       link: https://github.com/abolfazlmalekahmadi

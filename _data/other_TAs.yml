@@ -7,8 +7,8 @@
       link: https://www.linkedin.com/in/seyedreza-tavakoli-732a39217/
 
 - name: Hamid Namjoo
-  # roles:
-  #   - Homework No.3
+  roles:
+    - TA
   image: Hamid_Namjoo.jpg
   social:
     - name: github
@@ -17,8 +17,8 @@
       link: https://www.linkedin.com/in/hamid-namjoo/
 
 - name: Amirhossein Akbari
-  # roles:
-  #   - Homework No.4
+  roles:
+    - TA
 #   image: pouria.jpg
 #   social:
 #     - name: github

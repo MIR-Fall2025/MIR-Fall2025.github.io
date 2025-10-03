@@ -15,7 +15,9 @@
       link: https://github.com/hrnrxb
     - name: linkedin
       link: https://www.linkedin.com/in/hamid-namjoo/
-
+    - name: website
+      link: https://hamidnamjoo.com 
+      
 - name: Amirhossein Akbari
   roles:
     - TA
@@ -26,14 +28,19 @@
 #     - name: linkedin
 #       link: https://www.linkedin.com/in/pouria-dadkhah-1bb044187/
 
-# - name: Ramtin Moslemi
-#   roles:
-#     - Homework No.1
-#     - Homework No.4
-#   image: ramtin.jpg
-#   social:
-#     - name: linkedin
-#       link: www.linkedin.com/in/ramtin-m
+- name: Amir Mohammad Fakhimi
+  roles:
+    - TA
+  image: Fakhimi.jpeg
+  social:
+    - name: gmail
+      link: mailto:fakhimi.amirmohamad@gmail.com
+    - name: linkedin
+      link: https://linkedin.com/in/amir-mohammad-fakhimi/
+    - name: github
+      link: https://github.com/AmirMohammadFakhimi
+    - name: website
+      link: https://www.amfakhimi.com/       
 
 # - name: Amirabbas Asadi
 #   roles:

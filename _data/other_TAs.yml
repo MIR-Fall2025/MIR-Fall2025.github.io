@@ -45,7 +45,7 @@
 - name: Arshia Dadras
   roles:
     - TA
-  image: Dadras.heic
+  image: Dadras.HEIC
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/arshiadadras

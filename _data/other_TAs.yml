@@ -42,15 +42,13 @@
     - name: website
       link: https://www.amfakhimi.com/       
 
-# - name: Amirabbas Asadi
-#   roles:
-#     - HW No.3
-#     - HW No.4
-#     - HW No.5
-#   image: amirabbas.jpeg
-#   social:
-#     - name: linkedin
-#       link: https://www.linkedin.com/in/amirabbas-asadi/
+- name: Arshia Dadras
+  roles:
+    - TA
+  image: Dadras.heic
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/arshiadadras
 
 # - name: Samira Sheikha
 #   roles:

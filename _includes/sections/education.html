@@ -40,8 +40,15 @@
                                     {% if TA.social %}
                                     <ul class="follow-us clearfix">
                                         {% for social in TA.social %}
-                                        <li><a href="{{ social.link }}"><i class="fab fa-{{ social.name }}"
-                                                    aria-hidden="true"></i></a></li>
+                                          <li>
+                                            {% if social.name == "website" %}
+                                              <a href="{{ social.link }}"><i class="fas fa-globe" aria-hidden="true"></i></a>
+                                            {% elsif social.name == "gmail" %}
+                                              <a href="{{ social.link }}"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+                                            {% else %}
+                                              <a href="{{ social.link }}"><i class="fab fa-{{ social.name }}" aria-hidden="true"></i></a>
+                                            {% endif %}
+                                          </li>
                                         {% endfor %}
                                     </ul>
                                     {% endif %}

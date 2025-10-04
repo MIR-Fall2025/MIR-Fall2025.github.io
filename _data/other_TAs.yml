@@ -49,6 +49,11 @@
   social:
     - name: linkedin
       link: https://www.linkedin.com/in/arshiadadras
+    - name: gmail
+      link: mailto:arshiadadras1234@gmail.com
+    - name: github
+      link: https://github.com/ArshiaDadras
+      
 
 # - name: Samira Sheikha
 #   roles:

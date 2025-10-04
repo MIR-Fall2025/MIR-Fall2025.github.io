@@ -1,1 +1,1 @@
-# generativeModels.github.io
+# MIR-Fall2025.github.io

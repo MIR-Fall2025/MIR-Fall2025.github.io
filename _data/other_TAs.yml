@@ -55,14 +55,13 @@
       link: https://github.com/ArshiaDadras
       
 
-# - name: Samira Sheikha
-#   roles:
-#     - Homework No.1
-#     - Homework No.5
-#   image: samira.jpeg
-#   social:
-#     - name: linkedin
-#       link: https://www.linkedin.com/in/samirasheikha
+- name: Danial Gharib
+  roles:
+    - TA
+  image: Daniel.jpg
+  # social:
+  #   - name: linkedin
+  #     link: https://www.linkedin.com/in/danial-gharib-33bb90195/
 
 # - name: Mohammad Hossein Najafi
 #   roles:

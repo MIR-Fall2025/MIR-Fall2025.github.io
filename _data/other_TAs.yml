@@ -63,13 +63,19 @@
   #   - name: linkedin
   #     link: https://www.linkedin.com/in/danial-gharib-33bb90195/
 
-# - name: Mohammad Hossein Najafi
-#   roles:
-#     - Homework No.3
-#   image: najafi.jpg
-#   social:
-#     - name: linkedin
-#       link: https://www.linkedin.com/in/mohammad-hossein-najafi-992889190
+- name: Sarina Heshmati
+  roles:
+    - TA
+  image: Sarina.jpg
+  social:
+    - name: gmail
+      link: mailto:sarinaheshmatii@gmail.com
+    - name: linkedin
+      link: https://www.linkedin.com/in/sarina-heshmatii
+    - name: github
+      link: https://github.com/sarinaheshmati
+    - name: website
+      link: https://sarinaheshmati.framer.website/    
 
 # - name: Nasrin Amjadi
 #   roles:

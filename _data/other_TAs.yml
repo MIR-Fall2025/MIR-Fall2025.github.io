@@ -42,6 +42,7 @@
     - name: website
       link: https://www.amfakhimi.com/       
 
+
 - name: Arshia Dadras
   roles:
     - TA
@@ -53,15 +54,18 @@
       link: mailto:arshiadadras1234@gmail.com
     - name: github
       link: https://github.com/ArshiaDadras
-      
 
+      
 - name: Danial Gharib
   roles:
     - TA
   image: Daniel.jpg
-  # social:
-  #   - name: linkedin
-  #     link: https://www.linkedin.com/in/danial-gharib-33bb90195/
+  social:
+    - name: gmail
+      link: mailto:danial.mail.gh@gmail.com
+    - name: linkedin
+      link: https://www.linkedin.com/in/danial-gharib-33bb90195/
+
 
 - name: Sarina Heshmati
   roles:
@@ -76,6 +80,7 @@
       link: https://github.com/sarinaheshmati
     - name: website
       link: https://sarinaheshmati.framer.website/    
+
 
 # - name: Nasrin Amjadi
 #   roles:

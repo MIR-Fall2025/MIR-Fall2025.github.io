@@ -2,7 +2,7 @@
     - 1404/07/19
   subjects:
     - title: "**Introduction**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-1.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-1.pdf"
   assignment: []
   sections:
     - title: "Chapter 1 of MRS"
@@ -13,7 +13,7 @@
     - 1404/07/21
   subjects:
     - title: "**Boolean information retrieval and document preprocessing**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-2.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-2.pdf"
   assignment: []
   sections:
     - title: "Chapters 1 & 2 of MRS"
@@ -24,7 +24,7 @@
     - 1404/07/26
   subjects:
     - title: "**Dictionaries and tolerant retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-3.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-3.pdf"
   assignment: []
   sections:
     - title: "Chapter 3 of MRS"
@@ -35,7 +35,7 @@
     - 1404/07/28
   subjects:
     - title: "**Index Construction**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-4.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-4.pdf"
   assignment: []
   sections:
     - title: "Chapter 4 of MRS"
@@ -46,7 +46,7 @@
     - 1404/08/03
   subjects:
     - title: "**Index compression**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-5.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-5.pdf"
   assignment: []
   sections:
     - title: "Chapter 5 of MRS"
@@ -57,7 +57,7 @@
     - 1404/08/05
   subjects:
     - title: "**Vector space model**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-6.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-6.pdf"
   assignment: []
   sections:
     - title: "Chapter 6 of MRS"
@@ -68,7 +68,7 @@
     - 1404/08/10
   subjects:
     - title: "**Scores in a complete search system**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-7.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-7.pdf"
   assignment: []
   sections:
     - title: "Chapter 7 of MRS"
@@ -79,7 +79,7 @@
     - 1404/08/12
   subjects:
     - title: "**Evaluation in information retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-8.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-8.pdf"
   assignment: []
   sections:
     - title: "Chapter 8 of MRS"
@@ -91,7 +91,7 @@
     - 1404/08/19
   subjects:
     - title: "**Relevance feedback and query expansion**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-9.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-9.pdf"
   assignment: []
   sections:
     - title: "Chapter 9 of MRS"
@@ -102,7 +102,7 @@
     - 1404/08/24
   subjects:
     - title: "**Probabilistic Information Retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-10.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-10.pdf"
   assignment: []
   sections:
     - title: "Chapter 11 of MRS"
@@ -113,7 +113,7 @@
     - 1404/08/26
   subjects:
     - title: "**Language Models for Information Retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-11.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-11.pdf"
   assignment: []
   sections:
     - title: "Chapter 12 of MRS"
@@ -125,9 +125,9 @@
     - 1404/09/03
   subjects:
     - title: "**Probabilistic text classification**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-13.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-13.pdf"
     - title: "**Vector space text classification**"
-      link: "https://sharif.edu/~beigy/courses/14041/40324/Lect-14.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-14.pdf"
   assignment: []
   sections:
     - title: "Chapters 13-15 of MRS"
@@ -149,7 +149,7 @@
     - 1404/09/10
   subjects:
     - title: "**Vector space text classification**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-14.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-14.pdf"
   assignment: []
   sections:
     - title: "Chapters 13-15 of MRS"
@@ -162,7 +162,7 @@
     - 1404/09/22
   subjects:
     - title: "**Text clustering**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-17.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-17.pdf"
   assignment: []
   sections:
     - title: "Chapters 16 & 17 of MRS"
@@ -173,7 +173,7 @@
     - 1404/09/24
   subjects:
     - title: "**Dimensionality reduction and feature selection**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-20.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-20.pdf"
   assignment: []
   sections:
     - title: "Chapter 13 of MRS"
@@ -184,7 +184,7 @@
     - 1404/09/29
   subjects:
     - title: "**Latent Semantic Indexing**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-21.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-21.pdf"
   assignment: []
   sections:
     - title: "Chapter 18 of MRS"
@@ -196,7 +196,7 @@
     - 1404/10/06
   subjects:
     - title: "**Web crawling and search**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-22.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-22.pdf"
   assignment: []
   sections:
     - title: "Chapters 19 & 20 of MRS"
@@ -207,7 +207,7 @@
     - 1404/10/08
   subjects:
     - title: "**Link Analysis**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-25.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-25.pdf"
   assignment: []
   sections:
     - title: "Chapter 21 of MRS"
@@ -219,7 +219,7 @@
     - 1404/10/15
   subjects:
     - title: "**Neural information retrieval**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-25.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-25.pdf"
   assignment: []
   sections:
     - title: "MC"
@@ -230,7 +230,7 @@
     - 1404/10/20
   subjects:
     - title: "**Retrieval Augmented Generation**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-27.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-27.pdf"
   assignment: []
   sections: []
   color: ""
@@ -239,7 +239,7 @@
     - 1404/10/22
   subjects:
     - title: "**Some IR applications**"
-      link: "https://sharif.edu/~beigy/courses/14032/40324/Lect-28.pdf"
+      link: "https://raw.githubusercontent.com/SUT-MIR-Fall2025/SUT-MIR-Fall2025.github.io/main/assets/slides/Lect-28.pdf"
   assignment: []
   sections: []
   color: ""

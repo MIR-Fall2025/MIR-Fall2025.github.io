@@ -4,7 +4,7 @@ This repository follows the file naming convention from the **[previous semester
 
 Please use the exact format below for slide file names to ensure consistency and easy identification.
 
-**Note:** Once the PDF files are uploaded with the correct naming convention, the download links on the course website will automatically become active without requiring any changes to the site structure. (Just upload with exact name-pattern 😀)
+**Note:** Once the PDF files are uploaded with the correct naming convention, the download links on the course website will automatically become active without requiring any changes to the site structure. **(Just upload with exact name-pattern 😀)**
 
 ---
 

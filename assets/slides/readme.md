@@ -1,4 +1,4 @@
-# ⚠️Attention Please
+# ⚠️ Before uploading slides, please read these instructions.
 
 This repository follows the file naming convention from the **[previous semester (Spring 2025 - Course 40324)](https://sharif.edu/~beigy/14032-40324.html)**.
 

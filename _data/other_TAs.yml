@@ -21,12 +21,12 @@
 - name: Amirhossein Akbari
   roles:
     - TA
-#   image: pouria.jpg
-#   social:
-#     - name: github
-#       link: https://github.com/pouria-D
-#     - name: linkedin
-#       link: https://www.linkedin.com/in/pouria-dadkhah-1bb044187/
+  image: Akbari.jpg
+  social:
+    - name: github
+      link: https://github.com/AHNakbari
+    - name: linkedin
+      link: https://www.linkedin.com/in/amirhossein-akbari-758779262/
 
 - name: Amir Mohammad Fakhimi
   roles:
